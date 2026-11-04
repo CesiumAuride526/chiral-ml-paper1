@@ -1,4 +1,4 @@
-# chiral-ml-paper1 — code, curated data and figures
+# cmrt-enantioselectivity-reappraisal — code, curated data and figures
 
 Code, curated data and figures for the preprint
 
