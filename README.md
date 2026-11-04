@@ -6,8 +6,8 @@ Code, curated data and figures for the preprint
 > actually fails: a leave-one-paper-out reappraisal of 10,525 enantiomer pairs**
 > Lang Cui (崔朗), Kunming University of Science and Technology, Kunming 650500, China.
 
-The preprint and its Supplementary Information are included as `preprint/Paper1_main.pdf` and
-`preprint/Paper1_SI.pdf`.
+The preprint and its Supplementary Information are included as `preprint/cmrt-enantioselectivity-reappraisal.pdf` and
+`preprint/cmrt-enantioselectivity-reappraisal-SI.pdf`.
 
 ## Contents
 
@@ -16,7 +16,7 @@ The preprint and its Supplementary Information are included as `preprint/Paper1_
 | `data/curated/` | curated modelling tables: 10,525 enantiomer pairs, 25,866 records, 25 columns, 8 split indices (`splits/`), descriptor matrices, and every result CSV quoted in the paper |
 | `scripts/` | analysis pipeline that produces the paper's numbers and figures |
 | `figures/v3/` | the 7 publication figures (PNG + PDF) |
-| `preprint/` | main manuscript PDF and Supplementary Information PDF |
+| `preprint/` | main PDF (`cmrt-enantioselectivity-reappraisal.pdf`) and SI (`...-SI.pdf`) |
 | `notes/`, `scratch/` | empty output directories; scripts write evidence notes and intermediates here |
 
 ## Environment
