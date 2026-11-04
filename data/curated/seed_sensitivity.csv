@@ -1,0 +1,6 @@
+seed,within_r_median,within_frac_r_gt0,across_r_median,across_frac_r_gt0,source,notes
+1,0.1764,0.77,-0.0125,0.48,notes/学习曲线_同实验室vs换实验室.md section 4 (scripts/19_paper_learning_curve.py --seed-sweep),within = same-paper 50/50 split (n>=25); across = other papers; both are per-paper Pearson r medians; across uses the largest k (250 papers)
+2,0.1925,0.79,0.0106,0.51,notes/学习曲线_同实验室vs换实验室.md section 4 (scripts/19_paper_learning_curve.py --seed-sweep),same pipeline and feature set for every seed
+3,0.2001,0.81,-0.0421,0.47,notes/学习曲线_同实验室vs换实验室.md section 4 (scripts/19_paper_learning_curve.py --seed-sweep),same pipeline and feature set for every seed
+4,0.1866,0.82,-0.0026,0.50,notes/学习曲线_同实验室vs换实验室.md section 4 (scripts/19_paper_learning_curve.py --seed-sweep),same pipeline and feature set for every seed
+5,0.1956,0.78,-0.0175,0.48,notes/学习曲线_同实验室vs换实验室.md section 4 (scripts/19_paper_learning_curve.py --seed-sweep),same pipeline and feature set for every seed

@@ -1,0 +1,26 @@
+Column,surface,particle_um,subs_code,family,subs_meaning,n_pairs
+ADH,Amylose,5.0,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",2216
+ODH,Cellulose,5.0,a,Cellulose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",1966
+IC,Cellulose,5.0,b,Cellulose-b,"3,5-二氯苯基氨基甲酸酯 (3,5-dichlorophenylcarbamate) — Amylose: IE; Cellulose: IC/IC3/ICH",857
+OJH,Cellulose,5.0,c,Cellulose-c,4-甲基苯甲酸酯 (4-methylbenzoate) — Cellulose: OJ/OJ3/OJH,788
+IA,Amylose,5.0,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",714
+ASH,Amylose,5.0,d,Amylose-d,(S)-1-苯乙基氨基甲酸酯 ((S)-1-phenylethylcarbamate) — Amylose: AS/ASH  ⚠️ 取代基本身带手性中心,487
+IC3,Cellulose,3.0,b,Cellulose-b,"3,5-二氯苯基氨基甲酸酯 (3,5-dichlorophenylcarbamate) — Amylose: IE; Cellulose: IC/IC3/ICH",412
+IE,Amylose,5.0,b,Amylose-b,"3,5-二氯苯基氨基甲酸酯 (3,5-dichlorophenylcarbamate) — Amylose: IE; Cellulose: IC/IC3/ICH",388
+OD3,Cellulose,3.0,a,Cellulose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",338
+IB,Cellulose,5.0,a,Cellulose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",269
+AD,Amylose,10.0,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",265
+AD3,Amylose,3.0,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",265
+ID,Amylose,5.0,e,Amylose-e,3-氯苯基氨基甲酸酯 (3-chlorophenylcarbamate) — Amylose: ID（单柱）,247
+IF,Amylose,5.0,f,Amylose-f,3-氯-4-甲基苯基氨基甲酸酯 (3-chloro-4-methylphenylcarbamate) — Amylose: AZ/IF/IF3; Cellulose: OZ3,201
+OD,Cellulose,10.0,a,Cellulose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",165
+AZ,Amylose,10.0,f,Amylose-f,3-氯-4-甲基苯基氨基甲酸酯 (3-chloro-4-methylphenylcarbamate) — Amylose: AZ/IF/IF3; Cellulose: OZ3,156
+AS,Amylose,10.0,d,Amylose-d,(S)-1-苯乙基氨基甲酸酯 ((S)-1-phenylethylcarbamate) — Amylose: AS/ASH  ⚠️ 取代基本身带手性中心,152
+OJ3,Cellulose,3.0,c,Cellulose-c,4-甲基苯甲酸酯 (4-methylbenzoate) — Cellulose: OJ/OJ3/OJH,123
+IG,Amylose,5.0,g,Amylose-g,3-氯-5-甲基苯基氨基甲酸酯 (3-chloro-5-methylphenylcarbamate) — Amylose: IG（单柱）,111
+OZ3,Cellulose,3.0,f,Cellulose-f,3-氯-4-甲基苯基氨基甲酸酯 (3-chloro-4-methylphenylcarbamate) — Amylose: AZ/IF/IF3; Cellulose: OZ3,104
+ICH,Cellulose,5.0,b,Cellulose-b,"3,5-二氯苯基氨基甲酸酯 (3,5-dichlorophenylcarbamate) — Amylose: IE; Cellulose: IC/IC3/ICH",98
+OJ,Cellulose,10.0,c,Cellulose-c,4-甲基苯甲酸酯 (4-methylbenzoate) — Cellulose: OJ/OJ3/OJH,94
+IF3,Amylose,3.0,f,Amylose-f,3-氯-4-甲基苯基氨基甲酸酯 (3-chloro-4-methylphenylcarbamate) — Amylose: AZ/IF/IF3; Cellulose: OZ3,77
+IAH,Amylose,5.0,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",19
+IAU,Amylose,1.6,a,Amylose-a,"3,5-二甲基苯基氨基甲酸酯 (3,5-dimethylphenylcarbamate) — Amylose: AD/AD3/ADH/IA/IAH/IAU; Cellulose: IB/OD/OD3/ODH",13

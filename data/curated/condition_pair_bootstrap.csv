@@ -1,0 +1,7 @@
+script,group,n_pairs,median_r,ci_lo,ci_hi,boot_n,seed
+scripts/36_condition_pair_bootstrap.py,mobile phase only (same column),6,0.5601685951005397,0.2740604627687982,0.8286945051954425,2000,20260918
+scripts/36_condition_pair_bootstrap.py,selector only (same mobile phase),30,0.1284883603193142,0.0007392642053839984,0.2498765869309649,2000,20260918
+scripts/36_condition_pair_bootstrap.py,both changed,30,0.08404484079799165,-0.04368332748808561,0.1795190829390914,2000,20260918
+scripts/36_condition_pair_bootstrap.py,diff: mobile phase only (same column) - selector only (same mobile phase),2000,0.4338930683601719,0.13087585554709116,0.7533179923587444,2000,20260918
+scripts/36_condition_pair_bootstrap.py,diff: mobile phase only (same column) - both changed,2000,0.49968775397199117,0.21502766813784177,0.7685525329332643,2000,20260918
+scripts/36_condition_pair_bootstrap.py,diff: selector only (same mobile phase) - both changed,2000,0.06125422925517113,-0.058999737308731155,0.19000492002595096,2000,20260918

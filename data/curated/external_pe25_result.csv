@@ -1,0 +1,4 @@
+subset,n_pairs,r2,rmse,emo_acc,emo_base,y_sd,source_script,notes
+all external pairs (incl. non-separated),84,-0.1687,0.2802,0.476,0.690,0.2592,scripts/10_external_validate.py; reproduced by scratch/audit8_numbers/a11_rerun_pe25.py,molecule-side features only (25 dims; no condition/CSP); GBM max_iter=250 lr=0.06 min_samples_leaf=20 random_state=42; EMO and RMSE to 1 dp / R2 and RMSE to 4 dp as printed by a11
+after removing CMRT-overlapping pairs,78,-0.1732,0.2900,0.487,0.692,0.2678,scripts/10_external_validate.py; reproduced by scratch/audit8_numbers/a11_rerun_pe25.py,4 overlapping analytes removed (Ibuprofen / Mandelic acid / Modafinil / Rolipram); same pipeline
+separated only (alpha != 1),42,-0.0207,0.3631,0.524,0.571,0.3594,scripts/10_external_validate.py; reproduced by scratch/audit8_numbers/a11_rerun_pe25.py,non-separated pairs excluded from the test set; this is the best-case arm reported in the CP4 note

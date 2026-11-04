@@ -1,0 +1,8 @@
+script,rule,n,emo_acc,auc,note
+scripts/33c_emo_order_ceiling.py,global_majority,215,58.6046511627907,50.0,常数预测器（阈值 0.5）
+scripts/33c_emo_order_ceiling.py,condition_main_effect,215,58.139534883720934,56.14410558230784,只用条件身份的多数方向
+scripts/33c_emo_order_ceiling.py,oracle_additive_two_way,215,72.09302325581395,76.12805421794185,分子 + 条件哑变量，无交互 ⇒ 标签可加类的上界
+scripts/33c_emo_order_ceiling.py,leave_one_molecule_additive,215,76.27906976744187,83.9709291956483,诚实加性基线：未知分子的分子效应按全局均值
+scripts/33c_emo_order_ceiling.py,leave_one_condition_additive,215,92.09302325581396,98.4126984126984,未知条件：条件效应按全局均值
+scripts/33c_emo_order_ceiling.py,per_molecule_oracle_majority,215,77.67441860465117,85.35313001605135,上界参照：知道该分子的多数方向
+scripts/33c_emo_order_ceiling.py,per_molecule_majority_weighted,215,77.62564419707276,,按分子先算多数类准确率再平均

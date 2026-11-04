@@ -1,0 +1,2 @@
+split,n,n_fold,emo_acc,emo_base_global,emo_base_perfold,acc_perfold_weighted
+S3_leave_column,10525,25,0.5645605700712589,0.5066983372921615,0.5580997624703088,0.5645605700712589
