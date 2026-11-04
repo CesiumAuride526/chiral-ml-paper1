@@ -4,7 +4,7 @@ Code, curated data and figures for the preprint
 
 > **Where machine learning for enantioselectivity on polysaccharide chiral stationary phases
 > actually fails: a leave-one-paper-out reappraisal of 10,525 enantiomer pairs**
-> Lang Cui (崔朗), Kunming University of Science and Technology, Kunming 650500, China.
+> Lang Cui, Faculty of Science, Kunming University of Science and Technology, Kunming 650500, China.
 
 The preprint and its Supplementary Information are included as `preprint/cmrt-enantioselectivity-reappraisal.pdf` and
 `preprint/cmrt-enantioselectivity-reappraisal-SI.pdf`.
